@@ -8,7 +8,7 @@ This is an ecosystem, not a single dataset. It is under active establishment.
 
 ### Explore
 - **Corpus & tooling** → [`corpus`](../../corpus)
-- **Datasets** → Hugging Face: `NKENNEAi-Okwu`
+- **Datasets** → Hugging Face: `Okwu`
 - **How releases are made, cited and corrected** → [`corpus/release`](../../corpus/tree/main/release)
 - **How to contribute** → [`corpus/CONTRIBUTING.md`](../../corpus/blob/main/CONTRIBUTING.md)
 - **How it is governed** → [`corpus/GOVERNANCE.md`](../../corpus/blob/main/GOVERNANCE.md)
